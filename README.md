@@ -1,2 +1,2 @@
 # mysite
-# mywebsite.html
+# index.html
